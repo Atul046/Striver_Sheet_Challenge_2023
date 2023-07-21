@@ -1,5 +1,6 @@
-#include <bits/stdc++.h>
+// Pascal's Triangle
 
+#include <bits/stdc++.h>
 vector<long long int> level(vector<long long int> prev) {
 
   vector<long long int> temp;
